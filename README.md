@@ -1,2 +1,2 @@
-# Practicals_OSL
-Practicals of Open Source Laboratory
+# Practicals_PDS
+Practicals of Programming using Data Structures
